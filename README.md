@@ -4,6 +4,12 @@ Aplicación móvil Expo + React Native para crear solicitudes de pago FIAT en
 testnet, compartir el enlace o QR y mostrar la confirmación en tiempo real
 mediante websocket.
 
+https://github.com/user-attachments/assets/09622bf3-3e3b-4579-966e-e46e24c9a2e3
+
+https://github.com/user-attachments/assets/a7a48bb6-22dd-4327-b822-aeccaed04565
+
+https://github.com/user-attachments/assets/1cba38ac-035a-42e3-b86d-eccdbd9b1910
+
 ## Stack
 
 - Expo SDK 55 y Expo Router
